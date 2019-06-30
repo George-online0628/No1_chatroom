@@ -1,6 +1,6 @@
 This is a Chat_room file.
 
-聊天室
+NO1.聊天室
 
 功能：类似qq群聊
     １．进入聊天室需要输入姓名，姓名不能重复
